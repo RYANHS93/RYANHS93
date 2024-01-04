@@ -1,26 +1,38 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Data-Analysis-Tools.jpg" width="1300" height="350">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ryanhs93&label=Profile%20views&color=0e75b6&style=flat" alt="ryanhs93" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ryan+Hasianda+Pasaribu!;" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Ryan Hasianda Pasaribu</h1>
 <h3 align="center">I am a Data Analyst and Lecturer in Investment & Finance. I have experience in analyzing data to support decision-making and developing insights in the fields of investment and finance</h3>
 <br>
 <br>
 <br>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanhs93&label=Profile%20views&color=0e75b6&style=flat" alt="ryanhs93" /> </p>
+<p align="right"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SEKOLAH TINGGI ILMU EKONOMI - INSTITUT BISNIS EKONOMI DAN KEUANGAN**
+<p align="center"> 🔭 I’m currently working on <strong>SEKOLAH TINGGI ILMU EKONOMI - INSTITUT BISNIS EKONOMI DAN KEUANGAN</strong></p>
 
-- 🌱 I’m currently learning **Expanding my knowledge in advanced statistical analysis and honing my skills in utilizing state-of-the-art tools for effective data visualization**
+<p align="center"> 🌱 I’m currently learning Expanding my knowledge in advanced statistical analysis and honing my skills in utilizing state-of-the-art tools for effective data visualization</p>
 
-- 👯 I’m looking to collaborate on **Explore innovative data analysis projects and develop advanced AI-based techniques in investment strategies**
+<p align="center"> 👯 I’m looking to collaborate on <strong>Explore innovative data analysis projects and develop advanced AI-based techniques in investment strategies</strong></p>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/14jKlKiu5t7hEja_P2EsYVZRTyqf5_S8N/view?usp=sharing](https://drive.google.com/file/d/14jKlKiu5t7hEja_P2EsYVZRTyqf5_S8N/view?usp=sharing)
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:ryanhasiandaa.pasaribu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-hasianda-pasaribu-29b99b172" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ <a href="https://drive.google.com/file/d/14jKlKiu5t7hEja_P2EsYVZRTyqf5_S8N/view?usp=sharing" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
 
-- 📫 How to reach me **www.linkedin.com/in/ryan-hasianda-pasaribu-m-m-29b99b172**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gveufUgd06qY4lIAwH76OamvwdWI-0i_/view?usp=sharing](https://drive.google.com/file/d/1gveufUgd06qY4lIAwH76OamvwdWI-0i_/view?usp=sharing)
+</div>
 
 <br>
 <br>
@@ -40,3 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanhs93&show_icons=true&locale=en" alt="ryanhs93" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanhs93&" alt="ryanhs93" /></p>
+
+
+
