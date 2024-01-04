@@ -6,7 +6,6 @@
 <br>
 <br>
 <br>
-
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanhs93&label=Profile%20views&color=0e75b6&style=flat" alt="ryanhs93" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
